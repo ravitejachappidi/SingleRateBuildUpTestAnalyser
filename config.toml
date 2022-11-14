@@ -1,0 +1,7 @@
+# Streamlit version: 1.14.0
+
+[theme]
+base="dark"
+primaryColor="#f92da3"
+textColor="#ffffff"
+font="serif"
